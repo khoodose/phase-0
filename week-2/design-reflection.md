@@ -1,6 +1,6 @@
 This is my current sitemap image
 
-![Sitemap image](/imgs/site-map.png?raw=true)
+![Sitemap image](https://github.com/khoodose/phase-0/blob/master/week-2/imgs/site-map.png?raw=true)
 
 **What are the 6 Phases of Web Design?**
 
